@@ -194,6 +194,7 @@
   z-index: 2;
 }
 .kaufman{
+  position: relative;
   background-color: #1f1f1f;
   z-index: 1;
   overflow: hidden;
@@ -321,7 +322,7 @@
   text-decoration: none;
   color: #f2f2f2;
 }
-.footer_social-icon{
+.footer__social-icon{
   margin-right: 10px;
   width: 16px;
   height: 16px;
